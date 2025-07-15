@@ -1,4 +1,8 @@
-# Word guessing game
+                        # WORD GUESSİNG GAME
+# a simple python project to help you to understand the python code flow.. 
+
+# The usual code flow is like; 1.imports, moduls  2. database connection   3.constant variables (then other codes...)
+
 
 # The word to guess
 target_word = "python"
